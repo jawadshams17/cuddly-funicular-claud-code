@@ -132,5 +132,4 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ---
 
-✅ **Professional Ready:** Clean, visual, modular — ready to impress recruiters, collaborators, or any cybersecurity audience.
 
