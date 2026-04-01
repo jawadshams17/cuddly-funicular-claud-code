@@ -1,5 +1,5 @@
-#  Cybersecurity Project 🔐
-# Cybersecurity Project 🔐
+
+# Cuddly-funicular Cybersecurity Project 🔐
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
