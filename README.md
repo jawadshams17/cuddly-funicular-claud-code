@@ -1,2 +1,16 @@
-# cuddly-funicular-claud-code
-Prompt Injection Security Toolkit for simulating, analyzing, and mitigating LLM vulnerabilities. Features modular attack payloads, response analysis, and input sanitization. Designed for cybersecurity research, red teaming, and building secure AI systems.
+# Prompt Injection Security Research Toolkit
+
+Author: Jawad Shams
+
+## Overview
+Advanced toolkit for testing and analyzing prompt injection vulnerabilities in LLMs.
+
+## Structure
+- src/ core logic
+- attacks/ payloads
+- defenses/ mitigation
+- tests/ validation
+
+## Run
+pip install -r requirements.txt
+python main.py
