@@ -34,24 +34,8 @@ elite_repo/
 ├── requirements.txt ← Python dependencies
 ```
 
----
-
-## 🖼️ Architecture Overview
-
-```mermaid
-flowchart TD
-    A[User Input / Trigger] --> B[Main Program (main.py)]
-    B --> C{Attack Module?}
-    C -->|Yes| D[attacks/]
-    C -->|No| E[defenses/]
-    D --> F[Simulation Results]
-    E --> G[Detection & Mitigation]
-    F --> H[Output / Logs]
-    G --> H
-    H --> I[Reports / Feedback]
 ```
 
-> Visual representation of **attack, detection, and mitigation workflow**.  
 
 ---
 
