@@ -1,9 +1,10 @@
-# Elite Cybersecurity Project 🔐
+#  Cybersecurity Project 🔐
+# Cybersecurity Project 🔐
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/elite_repo)](https://github.com/your-username/elite_repo/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/elite_repo?style=social)](https://github.com/your-username/elite_repo/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/jawadshams17/cuddly-funicular-claud-code)](https://github.com/jawadshams17/cuddly-funicular-claud-code/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/jawadshams17/cuddly-funicular-claud-code?style=social)](https://github.com/jawadshams17/cuddly-funicular-claud-code/stargazers)
 
 ---
 
